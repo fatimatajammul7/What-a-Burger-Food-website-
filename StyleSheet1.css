@@ -1,0 +1,202 @@
+﻿
+
+.header {
+    background-color: #F5EBDC;
+}
+
+.Mid {
+    display: inline-block;
+    margin: 0px;
+    padding: 20px;
+    margin-top: 18px;
+    margin-left: 142px;
+}
+
+.nav {
+    margin: 4px;
+    padding: 14px;
+}
+
+.nav a {
+    text-decoration:none;
+    margin: 28px;
+    padding: 19px;
+    font-size: 22px;
+    color: #502314;
+    font-weight: 700;
+}
+
+
+
+/*.Right {
+    display: inline;
+    margin-right: 34px;
+    margin-top: 26px;
+    float: right;
+    width: 104px;
+}*/
+.Right {
+    display: inline;
+}
+
+#Button1 {
+     float: right;
+    margin-right: 15px;
+    margin-top: 45px;
+}
+.Right:hover {
+    background-color:grey;
+}
+
+.Orgbody {
+    /*background-image: url(Images/bgm.jpg);
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    opacity: 0.9;*/
+    height: 150vh;
+    background-image:url(Images/EXTRa.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display:block;
+    text-align:center;
+}
+
+.Content {
+    border: solid brown;
+    margin: 25px;
+    padding: 26px;
+    display: inline-block;
+    margin-top: 200px;
+    margin-bottom: 117px;
+    float: right;
+    background-color: #F5EBDC;
+}
+
+#Button2 {
+    margin-left: 22px;
+    margin-top: 39px;
+    }
+
+#Button3 {
+
+    margin-left: 22px;
+    margin-top: 12px;
+    margin-bottom: 10px;
+    }
+
+
+
+
+
+
+.Footer {
+    margin: 0px;
+    padding: 70px;
+    background-color: #F5EBDC;
+}
+
+.Footer img {
+    width: 55px;
+    height:55px;    
+    }
+
+.Icons {
+    text-align:center;
+    display: block;
+}
+
+.Text {
+    display:block;
+    text-align:center;
+    margin-top: 0px;
+}
+
+.container {
+    margin-left: 5px;
+}
+
+
+
+/*Menu.aspx------------------------------------------------------*/
+.ItemContainer {
+    display: grid;
+}
+
+/*Cart.aspx and Menu --------------------------------------------------*/
+.gridcontent { 
+    padding: 20px 20px;
+    display: inline-flexbox;
+  text-align: center;
+  flex-align:center;
+  border: 2px dotted;
+}
+
+/*------------------------------------------------------*/
+
+
+
+/*Menu And Cart------------------------------------------------------*/
+.MenuBody h1 {
+    text-align:center;
+    font-size:50px;
+    font-style:italic;
+}
+
+.Addtocart {
+    text-align:center;
+}
+
+/*------------------------------------------------------*/
+
+.name {
+    
+    font-weight: bold;
+    font-size: 30px;
+    margin: 15px;
+    padding: 15px;
+}
+
+.desc {
+    font-size: 25px;
+    font-style:italic;
+    font-weight:lighter;
+    margin: 15px;
+    padding: 15px;
+}
+
+.price {
+    font-weight: 200;
+    font-size: 30px;
+    margin: 15px;
+    padding: 15px;
+}
+
+
+/*Profile.aspx------------------------------------------------------*/
+.ProfileBody h3 {
+    text-align:center;
+    font-size:50px;
+    font-style:italic;
+}
+
+.ProfileItem {
+
+    text-align:center;
+
+}
+
+/*AdminMEnu----------------*/
+.AddRemove {
+    text-align: center;
+}
+
+.AdminRemoveItem {
+    text-align:center; 
+}
+
+/*Admin Profile-----------------*/
+.ChangePassword {
+   
+    text-align: center;
+}

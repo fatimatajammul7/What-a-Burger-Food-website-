@@ -1,0 +1,64 @@
+﻿.header {
+    background-color: #F5EBDC;
+}
+
+
+.Mid {
+    display: inline-block;
+    margin: 0px;
+    padding: 20px;
+    margin-top: 18px;
+    margin-left: 142px;
+}
+
+.nav {
+    margin: 4px;
+    padding: 14px;
+}
+
+.nav a {
+    text-decoration:none;
+    margin: 28px;
+    padding: 19px;
+    font-size: 22px;
+    color: #502314;
+    font-weight: 700;
+}
+
+.Right {
+    display: inline;
+    margin-right: 34px;
+    margin-top: 26px;
+    float: right;
+    width: 104px;
+}
+
+#Label1, #Label5, #Label3, #Label7, #Label9 {
+    font-weight:bold;
+    font-size:20px;
+}
+
+
+
+
+
+.Footer {
+    margin: 0px;
+    padding: 70px;
+    background-color: #F5EBDC;
+}
+
+.Icons {
+    text-align:center;
+    display: block;
+}
+
+.Text {
+    display:block;
+    text-align:center;
+    margin-top: 0px;
+}
+
+.container {
+    margin-left: 5px;
+}
